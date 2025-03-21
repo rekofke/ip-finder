@@ -1,3 +1,6 @@
+# Must Create a free account with www.mapbox.com and add your API key where it says 'YOUR_API_KEY'
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
